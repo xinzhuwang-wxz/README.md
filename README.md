@@ -27,6 +27,5 @@
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinzhuwang-wxz&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinzhuwang-wxz&show_icons=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xinzhuwang-wxz)
+
 
